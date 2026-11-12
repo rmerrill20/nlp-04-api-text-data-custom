@@ -1,6 +1,7 @@
 """config.py.
 
-(EDIT YOUR VERSION OF THIS FILE)
+# Ronni Merrill
+# 2026-11
 
 Purpose
 
