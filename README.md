@@ -1,4 +1,4 @@
-# nlp-04-api-text-data
+# nlp-04-api-text-data-custom
 
 [![Python 3.14](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](pyproject.toml)
 [![CI](https://github.com/denisecase/nlp-04-api-text-data/actions/workflows/ci-python-zensical.yml/badge.svg)](https://github.com/denisecase/nlp-04-api-text-data/actions/workflows/ci-python-zensical.yml)
@@ -13,9 +13,9 @@
 
 ## Project Overview
 
-Author: Denise Case
+Author: Ronni Merrill
 
-Date: 2026 October
+Date: 2026 November
 
 Fourth project in the Web Mining and Applied NLP course.
 
@@ -129,7 +129,7 @@ uv run python -m pytest
 
 ## Project Documentation
 
-The [hosted documentation site](https://denisecase.github.io/nlp-04-api-text-data/)
+The [hosted documentation site](https://rmerrill20.github.io/nlp-04-api-text-data-custom/)
 is published using Zensical and GitHub Pages.
 
 The documentation site is used to present the project report,
@@ -229,7 +229,7 @@ testing, documentation, and code quality.
 
 ## Links
 
-- [Hosted Documentation](https://denisecase.github.io/nlp-04-api-text-data/)
+- [Hosted Documentation](https://rmerrill20.github.io/nlp-04-api-text-data-custom/)
 - [Professional Python Workflow Guide](https://denisecase.github.io/pro-analytics-02/)
 - [Citation](CITATION.cff)
 - [License](LICENSE)
